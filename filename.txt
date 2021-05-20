@@ -1,0 +1,14 @@
+Total Orders: 6
+Processed Orders: 2
+Cancelled Orders: 4
+Total Amount Earned: 26.68
+Total Items Ordered: 
+Beef Burgers: 2 
+Chicken Burgers: 2 
+Fish Burger: 1 
+Small Fries: 1 
+Medium Fries: 1 
+Large Fries: 3 
+Coffee: 3 
+Soda's: 4 
+Juice: 1
